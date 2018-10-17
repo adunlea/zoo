@@ -1,2 +1,2 @@
-# zoo
+# Zoo
 A simple zoo program
